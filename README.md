@@ -15,7 +15,11 @@ Must Have Features:
 Nice to Have Featues:
 - Make online games with other people work
 - Have a friends list
-- 
+
+Attributes / Resources / Sources:
+- https://youtu.be/Hn_MGvuYZdg - Adding Custom Pins to Map (Lets Code With Jack Hoskins)
+- https://youtu.be/y3UjZ8S_Eu4 - Show User's Location on Map (Lets Code With Jack Hoskins)
+- https://youtu.be/m6EH-JlCLsQ - Tic Tac Toe (Code with Cal)
 
 
 Low Fidelity Wire Frames: (Using Figma)
