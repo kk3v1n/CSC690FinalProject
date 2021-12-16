@@ -1,4 +1,4 @@
-# CSC690FinalProject
+# CSC690FinalProject (THIS IS JUST A TESTING REPO, NOT FOR SUBMISSION)
 
 Kevin Karmacharya's Final Project for CSC 690 
 
